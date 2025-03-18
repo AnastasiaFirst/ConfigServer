@@ -1,1 +1,2 @@
-example.message: Hello World!
+example:
+  message: "Hello from Config Server!"
